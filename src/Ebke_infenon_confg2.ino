@@ -289,7 +289,7 @@ void init_menu(){
       if (plus){eep_page++;plus=0;}
       if (minus){eep_page--;minus=0;}
       eep_page=constrain(eep_page,1,8);
-      dslay_print("14.EEPROM  pade: ",String(eep_page));
+      dslay_print("14.EEPROM  page: ",String(eep_page));
     break;
     case 15:
       if (plus){plus=0;eep_write(0);}

@@ -1,4 +1,4 @@
-# AVR_arduno_ebike-XPD_Ebike_based-
+# AVR_arduno_ebike_Infineon4-XPD_Ebike_based-
 Moble AVR based confgurator for INFINEON 4 ebike controoller.
 
 This version is configured for **KH618**.
